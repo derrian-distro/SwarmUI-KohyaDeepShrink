@@ -23,6 +23,13 @@ Kohya Deep Shrink is a technique that can help improve image generation quality 
 
 ## Installation
 
+### One-Click Install
+You can now install the extension directly from the SwarmUI extension manager.
+You can find the extension in the Server -> Extensions tab.
+It's as simple as clicking install and then waiting for the server to restart.
+After that you should see the section in the Generate tab.
+
+### Manual
 * Shutdown SwarmUI
 * Update SwarmUI first, if you have an old version this extension may not work
 * Open a cmd/terminal window in SwarmUI\src\Extensions
